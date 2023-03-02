@@ -1,1 +1,1 @@
-FROM gcc:bullseye
+FROM gcc:bullseye@sha256:c442526820a5e458c95785da89da395e56630fd7ba51d8ab39f7eb8647b25ca2
